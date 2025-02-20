@@ -1,4 +1,4 @@
-# -monitoring-supervision
+# monitoring-supervision
 Configuration de Zabbix, Grafana et scripts de surveillance système.
 #!/bin/bash
 echo "Installation de l’agent Zabbix..."
